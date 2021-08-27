@@ -1,2 +1,2 @@
 # portfolio
-Certificates and documents
+В данном разделе собраны сертификаты, документы и примеры работ.
