@@ -1,2 +1,3 @@
 Мобильные разработки
-https://apps.apple.com/ru/app/hi-igs/id1531138108
+<a href="https://apps.apple.com/ru/app/hi-igs/id1531138108"> hi IGS</a>.
+
